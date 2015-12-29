@@ -1,0 +1,22 @@
+current directory: /Users/liisvaljaots/rails_projects/first_app/vendor/bundle/gems/byebug-8.2.1/ext/byebug
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby -r ./siteconf20151229-28116-1ppktp7.rb extconf.rb
+creating Makefile
+
+current directory: /Users/liisvaljaots/rails_projects/first_app/vendor/bundle/gems/byebug-8.2.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/liisvaljaots/rails_projects/first_app/vendor/bundle/gems/byebug-8.2.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+ld: warning: directory not found for option '-L/usr/local/lib'
+ld: warning: directory not found for option '-L/usr/local/lib'
+
+current directory: /Users/liisvaljaots/rails_projects/first_app/vendor/bundle/gems/byebug-8.2.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20151229-28116-f9vgm1/byebug
+installing default byebug libraries
